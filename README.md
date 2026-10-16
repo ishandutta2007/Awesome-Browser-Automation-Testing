@@ -30,71 +30,29 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global automated testing market size is estimated at approximately **$24.2 billion to $40.4 billion in 2026** and projected to reach over **$80 billion by the early 2030s** (growing at a CAGR of ~14–17%). The sector is **moderately fragmented yet transitioning**—anchored by dominant enterprise platforms (OpenText, Tricentis, SmartBear) that hold major market share, alongside ongoing fragmentation driven by nimble AI-first and low-code testing startups continuously emerging to challenge legacy suites.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Micro Focus UFT (OpenText)](https://www.microfocus.com/)**  
-
-  **Unified Functional Testing** for enterprise test automation. Features **VBScript-based test creation**, **object repository**, **AI-based object recognition**, and **integration with ALM/QC**. **The enterprise standard** for functional test automation in regulated industries.
-
-
-
-- **[SmartBear TestComplete](https://smartbear.com/product/testcomplete/)**  
-
-  **Automated UI testing for desktop, web, and mobile**. Features **AI-powered object recognition**, **scriptless test creation**, **cross-browser testing**, and **integration with CI/CD**. **The most comprehensive commercial UI testing tool**.
-
-
-
-- **[Katalon Studio](https://katalon.com/)**  
-
-  **Test automation platform with BDD support**—write tests in Gherkin or Groovy. Features **StudioAssist AI**, **self-healing tests**, and **cross-platform support**. **The most accessible commercial test automation tool** with free tier.
-
-
-
-- **[Tricentis Tosca](https://www.tricentis.com/)**  
-
-  **Enterprise continuous testing platform** with **model-based test automation**. Features **codeless test creation**, **risk-based testing**, and **SAP integration**. **The most comprehensive enterprise test automation platform**.
-
-
-
-- **[Ranorex](https://www.ranorex.com/)**  
-
-  **GUI test automation for desktop, web, and mobile**. Features **record-and-replay**, **object repository**, and **cross-browser support**.
-
-
-
-- **[Worksoft](https://www.worksoft.com/)**  
-
-  **Codeless test automation for enterprise applications**. Features **SAP, Oracle, and Salesforce testing**, **process discovery**, and **risk-based testing**.
-
-
-
-- **[Leapwork](https://www.leapwork.com/)**  
-
-  **No-code test automation platform** with **visual flow builder**. Features **self-healing tests**, **cross-browser support**, and **CI/CD integration**.
-
-
-
-- **[mabl](https://www.mabl.com/)**  
-
-  **AI-native test automation platform** with **auto-healing tests**, **intelligent wait times**, and **visual regression detection**. **The most AI-forward commercial testing platform**.
-
-
-
-- **[Applitools](https://applitools.com/)**  
-
-  **Visual AI testing platform** with **automated visual regression detection**. Features **Ultrafast Test Cloud** and **root-cause analysis** for visual differences. **The standard for visual testing**.
+| Platform | Company Size (Valuation / Revenue) | Starting Pricing | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Micro Focus UFT (OpenText)](https://www.microfocus.com/)** | ~$5.93B Market Cap / $5.25B Revenue (Parent OpenText) | ~$3,000/seat/year (seat license) | 30-day free trial with full functional testing capabilities | Unified Functional Testing for enterprise test automation featuring VBScript/GUI object recognition and ALM/QC integration. |
+| **[Tricentis Tosca](https://www.tricentis.com/)** | $4.5B Valuation / ~$500M ARR | ~$20,000/year (base enterprise license tier) | 14-day free trial with full guided cloud-based model automation access | Enterprise continuous testing platform offering model-based codeless test automation, risk coverage, and SAP support. |
+| **[SmartBear TestComplete](https://smartbear.com/product/testcomplete/)** | >$1.8B Valuation / ~$150M+ Revenue | $1,210/user/year (Base Module) | 14-day free trial with full UI, desktop, web, and mobile test capabilities (no credit card required) | Automated UI testing platform featuring AI-powered object recognition, scriptless creation, and cross-browser testing. |
+| **[Ranorex](https://www.ranorex.com/)** | $1.125B Valuation (Parent Idera) / ~$15M ARR | $650/year (base license tier) | 14-day free trial with full studio features and cross-browser support (no credit card required) | GUI test automation suite for desktop, web, and mobile featuring record-and-replay and object repository management. |
+| **[Leapwork](https://www.leapwork.com/)** | $350M+ Valuation / ~$45M Revenue | ~$22,000/year (base enterprise platform tier) | 30-day evaluation trial with visual flow builder and automation agent capabilities | Visual, no-code test automation platform featuring flowchart-based design, self-healing locators, and CI/CD integrations. |
+| **[Applitools](https://applitools.com/)** | $250M–$300M Valuation / ~$35M+ ARR | $667/month (Starter tier, billed annually) | Free-forever plan with 100 visual checkpoints/month and unlimited users; plus 14-day enterprise trial | Visual AI testing platform featuring Ultrafast Test Cloud and automated visual regression detection with root-cause analysis. |
+| **[mabl](https://www.mabl.com/)** | $200M+ Valuation / ~$25M+ ARR | $450/month (Starter tier, billed annually) | 14-day free trial with 500 cloud-run credits and full AI auto-healing features; unlimited local runs | AI-native test automation platform offering auto-healing tests, intelligent wait times, and end-to-end regression validation. |
+| **[Worksoft](https://www.worksoft.com/)** | ~$100M Valuation / ~$38.2M Revenue | ~$1,500/year (base user node subscription) | Custom sandbox evaluation / guided discovery demo (no public self-serve free trial) | Codeless continuous test automation tailored for complex enterprise architectures like SAP, Oracle, and Salesforce. |
+| **[Katalon Studio](https://katalon.com/)** | ~$90M+ Valuation / ~$36M ARR | $170/user/month (or $1,000/seat/year billed annually) | Free-forever plan limited to local manual test authoring (no headless CI/CD execution); plus 30-day trial | Multi-platform test automation suite supporting BDD/Groovy, StudioAssist AI, and cross-browser test suites. |
 
 
 
