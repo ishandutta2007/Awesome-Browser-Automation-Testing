@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Browser-Automation-Testing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Browser-Automation-Testing?style=social&color=white" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Browser-Automation-Testing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Browser-Automation-Testing?style=social&color=white" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Browser-Automation-Testing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Browser-Automation-Testing?style=social&color=white" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Browser-Automation-Testing/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Browser-Automation-Testing?style=flat-square&color=blue" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -68,7 +68,7 @@ The global automated testing market size is estimated at approximately **$24.2 b
 
 ## 💻 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending). Star count badges link directly to each repository's stargazers page.*
+*Sorted by GitHub Stars_Count (Descending). Stars_Count badges link directly to each repository's stargazers page.*
 
 - **[Playwright](https://github.com/microsoft/playwright)** [![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
   ⚡ **Modern browser automation and testing framework** (Apache-2.0)  
@@ -178,7 +178,7 @@ Contributions are welcome! Please follow these simple guidelines:
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a feature branch**: `git checkout -b feature/add-new-tool`
 3. 📝 **Add/edit entries in [README.md](README.md)** (follow the existing table/list formatting with verified links).
-4. 💡 **Include**: tool name, official link, 1–2 sentence factual summary, pricing/free tier details (for SaaS) or GitHub star badge (for OSS).
+4. 💡 **Include**: tool name, official link, 1–2 sentence factual summary, pricing/free tier details (for SaaS) or GitHub Stars_Badge (for OSS).
 5. 🚀 **Submit a Pull Request** with a brief rationale of your additions.
 
 ⭐ *Don't forget to star the repo if you find this ecosystem guide helpful!*
