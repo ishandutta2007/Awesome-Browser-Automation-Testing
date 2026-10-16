@@ -1,48 +1,58 @@
-# Awesome-Browser-Automation-Testing
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Browser Automation &amp; Testing Banner" width="100%" />
+</p>
 
-## Top Browser Automation & Testing Ecosystem
+# 🌐 Awesome Browser Automation & Testing 🧪
 
+> 🚀 A curated collection of SaaS platforms, open-source testing frameworks, headless browser infrastructure, and next-generation AI-powered QA agents for modern web applications.
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Browser-Automation-Testing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Browser-Automation-Testing?style=social&color=white" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Browser-Automation-Testing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Browser-Automation-Testing?style=social&color=white" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Browser-Automation-Testing/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Browser-Automation-Testing?style=flat-square&color=blue" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+---
+
+## 📌 Top Browser Automation & Testing Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
+*Focused on Cross-Browser Testing, Self-Healing Locators, Headless Runners & Visual Regression Detection*  
+📅 **Last updated: October 2026**
 
-*Focused on Cross-Browser Testing, Self-Healing Locators & Visual Regression Detection*  
+This repository tracks notable **SaaS platforms** and **open-source projects** for **Browser Automation & Testing**. These tools enable QA engineers, developers, and SDETs to automate web application testing—from codeless test creation for business teams to code-first frameworks with parallel cloud execution and visual regression validation.
 
-**Last updated: October 2026**
+- 🏆 **Enterprise Leaders**: Micro Focus UFT, SmartBear TestComplete, Katalon Studio, Tricentis Tosca, Applitools, and Ranorex.
+- 🔓 **Open-Source Powerhouses**: Playwright, Puppeteer, Cypress, Selenium, Appium, WebdriverIO, and Robot Framework.
+- 🤖 **Next-Gen AI Testing**: Multi-agent QA explorers, visual diff locators, and autonomous crawl frameworks.
 
+---
 
+## 📑 Table of Contents
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Browser Automation & Testing**. These tools enable QA engineers and developers to automate web application testing—from codeless test creation for business users to code-first frameworks with parallel execution and visual validation.
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS / Commercial Testing Platforms](#-saas--commercial-testing-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🏗️ Headless Infrastructure & Distributed Runners](#-headless-infrastructure--distributed-runners)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [Star History](#star-history)
+- [⚖️ Disclaimer](#-disclaimer)
 
+---
 
-
-**Examples** include Micro Focus UFT, SmartBear TestComplete, Katalon Studio, Tricentis Tosca, Selenium, Ranorex, Worksoft, Leapwork, mabl, and Applitools (the category leaders).
-
-
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, cross-browser automation, and open testing frameworks—ideal for QA engineers, developers, and organizations seeking transparent, vendor-independent test automation.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global automated testing market size is estimated at approximately **$24.2 billion to $40.4 billion in 2026** and projected to reach over **$80 billion by the early 2030s** (growing at a CAGR of ~14–17%). The sector is **moderately fragmented yet transitioning**—anchored by dominant enterprise platforms (OpenText, Tricentis, SmartBear) that hold major market share, alongside ongoing fragmentation driven by nimble AI-first and low-code testing startups continuously emerging to challenge legacy suites.
 
-## SaaS/Hosted Platforms
+---
 
-| Platform | Company Size (Valuation / Revenue) | Starting Pricing | Free Tier / Trial Limits | Description |
+## 🏢 SaaS / Commercial Testing Platforms
+
+| 🛠️ Platform | 💼 Company Size (Valuation / Revenue) | 🏷️ Starting Pricing | 🎁 Free Tier / Trial Limits | 📝 Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Micro Focus UFT (OpenText)](https://www.microfocus.com/)** | ~$5.93B Market Cap / $5.25B Revenue (Parent OpenText) | ~$3,000/seat/year (seat license) | 30-day free trial with full functional testing capabilities | Unified Functional Testing for enterprise test automation featuring VBScript/GUI object recognition and ALM/QC integration. |
 | **[Tricentis Tosca](https://www.tricentis.com/)** | $4.5B Valuation / ~$500M ARR | ~$20,000/year (base enterprise license tier) | 14-day free trial with full guided cloud-based model automation access | Enterprise continuous testing platform offering model-based codeless test automation, risk coverage, and SAP support. |
@@ -54,154 +64,156 @@ The global automated testing market size is estimated at approximately **$24.2 b
 | **[Worksoft](https://www.worksoft.com/)** | ~$100M Valuation / ~$38.2M Revenue | ~$1,500/year (base user node subscription) | Custom sandbox evaluation / guided discovery demo (no public self-serve free trial) | Codeless continuous test automation tailored for complex enterprise architectures like SAP, Oracle, and Salesforce. |
 | **[Katalon Studio](https://katalon.com/)** | ~$90M+ Valuation / ~$36M ARR | $170/user/month (or $1,000/seat/year billed annually) | Free-forever plan limited to local manual test authoring (no headless CI/CD execution); plus 30-day trial | Multi-platform test automation suite supporting BDD/Groovy, StudioAssist AI, and cross-browser test suites. |
 
+---
 
+## 💻 Open-Source GitHub Projects
 
-## Open-Source GitHub Projects
+*Sorted by GitHub Star Count (Descending). Star count badges link directly to each repository's stargazers page.*
 
+- **[Playwright](https://github.com/microsoft/playwright)** [![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
+  ⚡ **Modern browser automation and testing framework** (Apache-2.0)  
+  **The fastest-growing browser automation framework** with native JavaScript rendering and built-in auto-waiting.  
+  - **Browser Engines**: Full cross-browser support for Chromium, Firefox, and WebKit.
+  - **Multi-language**: Official bindings in TypeScript/JavaScript, Python, Java, and .NET.
+  - **Built-in Superpowers**: Network interception, mobile viewport emulation, trace viewer, parallel execution, and `playwright codegen` test generator.
 
+- **[Puppeteer](https://github.com/puppeteer/puppeteer)** [![Stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers)  
+  🌐 **High-level Node.js API for Chrome and Firefox** (Apache-2.0)  
+  **The industry-standard Node.js library for headless browser automation** via Chrome DevTools Protocol (CDP) and WebDriver BiDi.  
+  - Excellent for pixel-perfect PDF generation, automated screenshots, and SPA scraping.
+  - Granular low-level control over network throttling, service workers, and performance metrics.
 
-- **[Selenium](https://github.com/SeleniumHQ/selenium)**  
+- **[Cypress](https://github.com/cypress-io/cypress)** [![Stars](https://img.shields.io/github/stars/cypress-io/cypress?style=social&color=white)](https://github.com/cypress-io/cypress/stargazers)  
+  🌲 **Fast, reliable, and developer-friendly testing for web applications** (MIT)  
+  **The frontend developer favorite**—runs in the exact same execution loop as the web application.  
+  - **Time-Travel Debugging**: Take readable DOM snapshots during each execution step.
+  - **Real-Time Reloads**: Instant hot-reloading when test code changes.
+  - **Zero Flakiness**: Automatic element waiting and assertion retry logic without manual sleep delays.
 
-  **A browser automation framework and ecosystem** (Apache-2.0) . **The original browser automation framework**—**Selenium WebDriver is the W3C standard for browser automation** . **Support for Java, Python, C#, Ruby, JavaScript, Kotlin** . **The foundation for most other automation tools**—Playwright, Cypress, and WebdriverIO all build on or compete with Selenium's legacy . **The most widely used browser automation framework** .
+- **[Selenium](https://github.com/SeleniumHQ/selenium)** [![Stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=social&color=white)](https://github.com/SeleniumHQ/selenium/stargazers)  
+  🪐 **The W3C Standard Browser Automation Framework and Ecosystem** (Apache-2.0)  
+  **The foundation of modern web testing**—WebDriver is the universal W3C standard for controlling browsers.  
+  - Unmatched multi-language support: Java, Python, C#, Ruby, JavaScript, and Kotlin.
+  - Distributed grid clustering (Selenium Grid 4) for massive parallel test suites across global operating systems.
 
+- **[Appium](https://github.com/appium/appium)** [![Stars](https://img.shields.io/github/stars/appium/appium?style=social&color=white)](https://github.com/appium/appium/stargazers)  
+  📱 **Cross-platform automation framework for iOS, Android, and desktop apps** (Apache-2.0)  
+  Extends the WebDriver protocol to mobile and hybrid web applications. Test mobile web apps on Safari and Chrome using the same APIs you use for desktop testing.
 
+- **[Browserless](https://github.com/browserless/browserless)** [![Stars](https://img.shields.io/github/stars/browserless/browserless?style=social&color=white)](https://github.com/browserless/browserless/stargazers)  
+  ☁️ **Headless browser infrastructure in Docker** (SSPL)  
+  Deploy scalable headless Chrome instances in Docker or Kubernetes. Fully compatible with Puppeteer, Playwright, and Selenium with built-in concurrency queueing, proxy routing, and memory management.
 
-- **[Playwright](https://github.com/microsoft/playwright)**  
+- **[Nightwatch.js](https://github.com/nightwatchjs/nightwatch)** [![Stars](https://img.shields.io/github/stars/nightwatchjs/nightwatch?style=social&color=white)](https://github.com/nightwatchjs/nightwatch/stargazers)  
+  🦉 **Integrated end-to-end testing framework written in Node.js** (MIT)  
+  Built on W3C WebDriver specifications and Chrome DevTools Protocol. Features a powerful built-in test runner, component testing support (React, Vue, Vite), and visual regression testing out of the box.
 
-  **Modern browser automation and testing framework** (Apache-2.0) . **The fastest-growing browser automation framework**—**native JavaScript rendering** with auto-wait built in . **Supports Chromium, Firefox, and WebKit** . **Multi-language**: JavaScript/TypeScript, Python, Java, .NET . **The best free starting point for browser automation** on modern JS-heavy sites . **Playwright Codegen** generates test code from recorded interactions . **Network interception, mobile emulation, and parallel execution** built in .
+- **[Robot Framework](https://github.com/robotframework/robotframework)** [![Stars](https://img.shields.io/github/stars/robotframework/robotframework?style=social&color=white)](https://github.com/robotframework/robotframework/stargazers)  
+  🤖 **Generic open-source test automation and RPA framework** (Apache-2.0)  
+  Keyword-driven syntax allows technical and non-technical stakeholders to collaborate on readable test suites. Seamlessly integrates with SeleniumLibrary, Browser (Playwright) Library, and REST APIs.
 
+- **[TestCafe](https://github.com/DevExpress/testcafe)** [![Stars](https://img.shields.io/github/stars/DevExpress/testcafe?style=social&color=white)](https://github.com/DevExpress/testcafe/stargazers)  
+  ☕ **Pure Node.js end-to-end web testing framework** (MIT)  
+  Requires zero WebDriver or external plugin installations. Features built-in automatic waiting, smart assertion retries, and concurrent multi-browser execution.
 
+- **[WebdriverIO](https://github.com/webdriverio/webdriverio)** [![Stars](https://img.shields.io/github/stars/webdriverio/webdriverio?style=social&color=white)](https://github.com/webdriverio/webdriverio/stargazers)  
+  🚀 **Next-generation browser and mobile automation test framework for Node.js** (MIT)  
+  OpenJS Foundation project supporting both W3C WebDriver and Chrome DevTools Protocol. Offers native integrations with Cucumber, Mocha, and Jasmine, alongside modern component testing capabilities.
 
-- **[Cypress](https://github.com/cypress-io/cypress)**  
+- **[Allure Report](https://github.com/allure-framework/allure2)** [![Stars](https://img.shields.io/github/stars/allure-framework/allure2?style=social&color=white)](https://github.com/allure-framework/allure2/stargazers)  
+  📊 **Lightweight multi-language test reporting framework** (Apache-2.0)  
+  Transforms test outputs from Playwright, Cypress, Selenium, and JUnit into rich, interactive visual reports with timeline graphs, step-by-step screenshots, and failure analytics.
 
-  **Fast, easy, and reliable testing for anything that runs in a browser** (MIT) . **The most popular JavaScript-native testing framework**—runs in the same run loop as the application . **Time-travel debugging** with snapshots at each step . **Real-time reloads** on file changes . **Automatic waiting** for elements and assertions . **The best developer experience** for frontend testing . **Note**: Cypress doesn't use WebDriver—it runs in the browser itself .
+- **[CodeceptJS](https://github.com/codeceptjs/CodeceptJS)** [![Stars](https://img.shields.io/github/stars/codeceptjs/CodeceptJS?style=social&color=white)](https://github.com/codeceptjs/CodeceptJS/stargazers)  
+  📖 **Supercharged scenario-driven testing framework** (MIT)  
+  Human-readable BDD-style test syntax that abstracts backends. Write tests once and execute them interchangeably on Playwright, WebDriver, Puppeteer, or Appium. Includes AI locator recovery helpers.
 
+- **[Taiko](https://github.com/getgauge/taiko)** [![Stars](https://img.shields.io/github/stars/getgauge/taiko?style=social&color=white)](https://github.com/getgauge/taiko/stargazers)  
+  🎯 **Reliable browser automation with smart selectors** (Apache-2.0)  
+  Built specifically by ThoughtWorks for readable, concise Node.js automation over Chrome DevTools Protocol. Avoids flaky tests by inspecting page structure and visual relationships automatically.
 
+- **[Selenium IDE](https://github.com/SeleniumHQ/selenium-ide)** [![Stars](https://img.shields.io/github/stars/SeleniumHQ/selenium-ide?style=social&color=white)](https://github.com/SeleniumHQ/selenium-ide/stargazers)  
+  ⏺️ **Open-source record and playback test automation extension** (Apache-2.0)  
+  Turn-key browser extension for Chrome and Firefox. Record user flows, debug live interactions, and export recorded sessions directly to runnable Selenium scripts in Java, Python, JavaScript, and C#.
 
-- **[WebdriverIO](https://github.com/webdriverio/webdriverio)**  
+- **[Selenoid](https://github.com/aerokube/selenoid)** [![Stars](https://img.shields.io/github/stars/aerokube/selenoid?style=social&color=white)](https://github.com/aerokube/selenoid/stargazers)  
+  🐳 **Blazing fast Selenium Hub successor running browsers in Docker** (Apache-2.0)  
+  Lightweight Go-based alternative to standard Selenium Grid. Spawns isolated browser containers per test session, captures live video recordings, and scales with low CPU overhead.
 
-  **Next-gen browser and mobile automation test framework for Node.js** (MIT) . **The most flexible Node.js automation framework**—supports both WebDriver and Chrome DevTools Protocol . **Built on Selenium's WebDriver standard** but with modern APIs . **Supports Cucumber, Mocha, and Jasmine** . **The best choice for teams that need WebDriver compatibility with modern DX** .
+- **[Zalenium](https://github.com/zalando/zalenium)** [![Stars](https://img.shields.io/github/stars/zalando/zalenium?style=social&color=white)](https://github.com/zalando/zalenium/stargazers)  
+  ⚡ **Scalable Docker-based Selenium Grid with video recording** (Apache-2.0)  
+  Created by Zalando to provide on-demand browser containers with dashboard previews, live VNC streams, and automatic fallback to cloud testing providers.
 
+- **[Puppeteer Replay](https://github.com/puppeteer/replay)** [![Stars](https://img.shields.io/github/stars/puppeteer/replay?style=social&color=white)](https://github.com/puppeteer/replay/stargazers)  
+  🔄 **Replay and stringify user recordings from Chrome DevTools** (Apache-2.0)  
+  Official library from the Chrome team to programmatically replay, inspect, and export user flows recorded with Chrome DevTools Recorder to Puppeteer, Cypress, and TestCafe.
 
-
-- **[Puppeteer](https://github.com/puppeteer/puppeteer)**  
-
-  **JavaScript API for Chrome and Firefox** (Apache-2.0) . **Chrome-specific browser automation**—deep Chrome DevTools Protocol (CDP) integration . **Screenshots, PDF generation, and fine-grained control** . **The foundation for many scraping and automation tools** .
-
-
-
-- **[Appium](https://github.com/appium/appium)**  
-
-  **Automation for iOS, Android, and Windows apps** (Apache-2.0) . **The standard for mobile app automation**—uses WebDriver protocol for native, hybrid, and mobile web apps . **Cross-platform with one API** . **Supports all major languages** .
-
-
-
-- **[Robot Framework](https://github.com/robotframework/robotframework)**  
-
-  **Generic open source automation framework** (Apache-2.0) . **Keyword-driven test automation**—natural language syntax for readable tests . **Extensive library ecosystem** including SeleniumLibrary, AppiumLibrary, and DatabaseLibrary . **The most accessible code-based framework** for non-programmers .
-
-
-
-- **[TestCafe](https://github.com/DevExpress/testcafe)**  
-
-  **A Node.js tool to automate end-to-end web testing** (MIT) . **No WebDriver required**—runs in the browser . **Automatic waiting** and **stable selectors** . **The simplest setup** among Node.js testing frameworks .
-
-
-
-- **[Nightwatch.js](https://github.com/nightwatchjs/nightwatch)**  
-
-  **End-to-end testing framework in Node.js** (MIT) . **Uses Selenium WebDriver** with **built-in test runner** . **The most Selenium-compatible Node.js framework** .
-
-
-
-- **[CodeceptJS](https://github.com/codeceptjs/CodeceptJS)**  
-
-  **Supercharged End 2 End Testing Framework** (MIT) . **Scenario-driven test writing**—tests read like user stories . **AI-powered locators** . **Supports Playwright, WebDriver, Puppeteer, and Appium** . **The most human-readable Node.js framework** .
-
-
+- **[Moon](https://github.com/aerokube/moon)** [![Stars](https://img.shields.io/github/stars/aerokube/moon?style=social&color=white)](https://github.com/aerokube/moon/stargazers)  
+  ☸️ **Kubernetes-native browser automation platform** (Apache-2.0)  
+  Scales thousands of concurrent Playwright, Puppeteer, and Selenium browser sessions inside Kubernetes and OpenShift clusters with sub-second pod spin-up times.
 
 - **[Vibetest](https://github.com/your-repo/vibetest)**  
-
-  **AI-powered browser testing with multi-agent LLM integration** (MIT) . **The most AI-native open-source testing framework**—**uses multiple agents to browse your website and aggregate findings** . **Features**: **multi-agent browser exploration**, **real-time bug detection** (console errors, broken links, accessibility issues), **two modes** (Quick mode for single-page, Deep mode for multi-page crawl), **auto-fix capability**, **CI/CD integration via GitHub Actions**, **local and remote testing**, and **screenshots for visual bugs** . **Configurable agent count** (default 3) with **15-minute timeout**. **The emerging standard for AI-driven QA** .
-
-
+  🤖 **AI-powered browser testing with multi-agent LLM exploration** (MIT)  
+  Coordinates multiple AI agents that explore web applications autonomously, detecting console runtime exceptions, broken links, accessibility regressions, and visual rendering defects.
 
 - **[SwarmTest](https://github.com/your-repo/swarmtest)**  
-
-  **AI agent QA for web, iOS, and Android** (open-source) . **The most comprehensive AI agent QA platform**—**orchestrates a swarm of AI agents that test your application 24/7** . **Features**: **natural language test creation** (describe what to test, agent executes), **multi-platform** (web, iOS, Android), **failure diagnosis** ("test failed because the 'Submit' button was covered by a modal"), **verifiable artifacts** (screenshots, videos, traces), **PR checks and Slack alerts** . **SDK-first design** with **TypeScript support** . **The future of testing isn't writing tests—it's describing what matters and watching the results come in** .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[Playwright Codegen](https://github.com/microsoft/playwright)** — Built-in code generator in Playwright (Apache-2.0) . **Records browser interactions and outputs runnable Playwright test code** .
-
-- **[Selenium IDE](https://github.com/SeleniumHQ/selenium-ide)** — Browser extension for recording and playing back Selenium tests (Apache-2.0) . **Exports to multiple languages** .
-
-- **[Taiko](https://github.com/getgauge/taiko)** — Simple, reliable browser automation in Node.js (MIT) . **The most concise automation API** .
-
-- **[Selenoid](https://github.com/aerokube/selenoid)** — Selenium hub that launches browsers in Docker containers (Apache-2.0) . **The most efficient Selenium Grid alternative** .
-
-- **[Moon](https://github.com/aerokube/moon)** — Browser automation solution for Kubernetes (Apache-2.0) . **The cloud-native Selenium Grid** .
-
-- **[Zalenium](https://github.com/zalando/zalenium)** — Flexible and scalable Selenium Grid (Apache-2.0) . **The most feature-rich Selenium Grid extension** .
-
-- **[BrowserStack Automate](https://www.browserstack.com/automate)** — Cloud browser testing on real devices (commercial) . **The standard for real-device testing** .
-
-- **[Sauce Labs](https://saucelabs.com/)** — Continuous testing cloud (commercial) . **The most comprehensive device cloud** .
-
-- Community **n8n** workflows for test execution notification and result routing.
-
-
-
-**Frameworks for building custom systems**: Combine **Playwright** for modern cross-browser automation with **Cypress** for frontend testing, **Selenium** for WebDriver-standard compatibility, **Appium** for mobile testing, **Robot Framework** for keyword-driven accessibility, and **Vibetest** or **SwarmTest** for AI-agent QA—creating a fully self-hosted, enterprise-grade browser automation platform.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Browser automation tools handling test credentials and production data must follow security best practices and avoid committing secrets to version control.
-
-- **Open-source browser automation is mature and production-ready.** Selenium is the W3C standard for browser automation . Playwright provides the fastest-growing modern framework with native JavaScript rendering . Cypress delivers the best developer experience for frontend testing . **These are genuine alternatives to commercial platforms.**
-
-- **Selenium vs Playwright vs Cypress: pick based on your stack.** Selenium for WebDriver-standard compatibility and broad language support . Playwright for modern JS-heavy sites with auto-wait and cross-browser . Cypress for JavaScript-native testing with time-travel debugging . **Pick based on how your team works, not benchmark charts.**
-
-- **AI-agent QA is the emerging frontier.** Vibetest and SwarmTest represent a shift from "write tests, run tests" to "describe what matters, watch the results come in." **This is the most significant change in test automation since Selenium.**
-
-- **Cypress doesn't use WebDriver.** It runs in the browser itself—this is both its advantage (fast, reliable) and its limitation (not standard-compliant). **Choose based on whether you need WebDriver compatibility.**
-
-- Self-hosted open-source solutions require proper test infrastructure, parallel execution management, and ongoing maintenance. **Tests are code**—they belong in version control with the application.
-
-
+  🐝 **Autonomous AI agent QA swarm for web and mobile** (Open-Source)  
+  Natural language test creation where developers state what matters, and autonomous testing swarms diagnose regressions with step-by-step videos, traces, and automated PR checks.
 
 ---
 
+## 🏗️ Headless Infrastructure & Distributed Runners
 
+Combine modern open-source engines with cloud infrastructure for infinite scalability:
+- 🚀 **Playwright + Docker**: Spin up isolated test execution containers with headless Chromium, WebKit, and Firefox pre-configured.
+- 🐳 **Browserless + Kubernetes**: Offload CPU-heavy browser workloads from your CI/CD runner to a managed headless browser cluster.
+- 📊 **Allure Report + CI/CD**: Aggregate parallel test run metrics across GitHub Actions, GitLab CI, and Jenkins with rich trend analysis.
 
-**Made for QA engineers, developers, and organizations building transparent browser automation solutions.**  
+---
 
-Let's make Browser Automation & Testing more open, data-driven, and AI-native.
+## 🤝 How to Contribute
+
+Contributions are welcome! Please follow these simple guidelines:
+
+1. 🍴 **Fork the repository**.
+2. 🌿 **Create a feature branch**: `git checkout -b feature/add-new-tool`
+3. 📝 **Add/edit entries in [README.md](README.md)** (follow the existing table/list formatting with verified links).
+4. 💡 **Include**: tool name, official link, 1–2 sentence factual summary, pricing/free tier details (for SaaS) or GitHub star badge (for OSS).
+5. 🚀 **Submit a Pull Request** with a brief rationale of your additions.
+
+⭐ *Don't forget to star the repo if you find this ecosystem guide helpful!*
+
+---
+
+## 💖 Support
+
+Thank you for exploring and using this repository! If you find this curated collection valuable for your daily QA engineering, developer workflows, or architectural research, please consider supporting the project:
+
+- ⭐ **Star the Repository**: Helps more developers and teams discover open-source browser automation tools.
+- 🍴 **Fork & Share**: Share it with your team, colleagues, and testing communities.
+- ☕ **Sponsor the Author**: Support ongoing open-source maintenance and research by buying a coffee via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.com/#ishandutta2007/Awesome-Browser-Automation-Testing&type=Date)](https://star-history.com/#ishandutta2007/Awesome-Browser-Automation-Testing&type=Date)
+
+---
+
+## ⚖️ Disclaimer
+
+- 📖 This is a **community-curated** list—it is not exhaustive and does not constitute a formal commercial endorsement.
+- 🔒 **Security Best Practices**: When configuring automated browser tests that handle credentials or production systems, always inject secrets via secure environment variables and never commit API tokens to version control.
+- 🎯 **Choosing the Right Tool**:
+  - **Selenium**: Best for enterprise environments requiring W3C WebDriver compliance and multi-language backends (Java, Python, C#).
+  - **Playwright**: Best for modern web apps requiring fast, rock-solid cross-browser testing with auto-wait, network interception, and parallel speed.
+  - **Cypress**: Best for frontend engineers desiring real-time debugging inside browser run loops.
+  - **Puppeteer**: Best for node-based automation, automated reporting, and CDP-level control.
+- 🧪 **Tests are Code**: Treat test suites with first-class engineering discipline, co-located in version control with automated CI/CD gating.
+
+---
+
+<p align="center">
+  <b>Made with ❤️ for QA engineers, SDETs, and developers building robust browser automation.</b><br />
+  <sub>Let's make Browser Automation &amp; Testing transparent, accessible, and AI-native.</sub>
+</p>
