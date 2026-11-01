@@ -63,6 +63,7 @@ The global automated testing market size is estimated at approximately **$24.2 b
 | **[mabl](https://www.mabl.com/)** | $200M+ Valuation / ~$25M+ ARR | $450/month (Starter tier, billed annually) | 14-day free trial with 500 cloud-run credits and full AI auto-healing features; unlimited local runs | AI-native test automation platform offering auto-healing tests, intelligent wait times, and end-to-end regression validation. |
 | **[Worksoft](https://www.worksoft.com/)** | ~$100M Valuation / ~$38.2M Revenue | ~$1,500/year (base user node subscription) | Custom sandbox evaluation / guided discovery demo (no public self-serve free trial) | Codeless continuous test automation tailored for complex enterprise architectures like SAP, Oracle, and Salesforce. |
 | **[Katalon Studio](https://katalon.com/)** | ~$90M+ Valuation / ~$36M ARR | $170/user/month (or $1,000/seat/year billed annually) | Free-forever plan limited to local manual test authoring (no headless CI/CD execution); plus 30-day trial | Multi-platform test automation suite supporting BDD/Groovy, StudioAssist AI, and cross-browser test suites. |
+| **[agent-qa](https://vostride.com)** | — | Free CLI; model/device costs separate | Node.js 24+; FSL-1.1-ALv2 restricts competing commercial use | Natural-language web and mobile QA with persistent memidex memory and self-improvement via CLI/MCP. |
 
 ---
 
